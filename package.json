@@ -1,0 +1,31 @@
+{
+  "name": "files-system_practice-6",
+  "version": "1.0.0",
+  "description": "node exercise, number 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LibardoAhumada/practica_Node_.git"
+  },
+  "keywords": [
+    "\"keywords\":",
+    "[\"ls\"",
+    "\"add\"",
+    "\"rm\"",
+    "\"reset\"",
+    "\"koders\"",
+    "\"node.js\""
+     ],
+  "author": "Libardo Ahumada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LibardoAhumada/practica_Node_/issues"
+  },
+  "homepage": "https://github.com/LibardoAhumada/practica_Node_#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
