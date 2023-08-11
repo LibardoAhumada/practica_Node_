@@ -5,6 +5,6 @@ const content = fs.readFileSync("namesOfKoders.json", "utf-8");
 
 const contentAsObject = JSON.parse(content);
 
-contentArray.push({koder: "Libardo"});
+contentAsObject.push({koder: "Libardo"});
 
 fs.writeFileSync("namesOfKoders.json", JSON.stringify(contentAsObject));
